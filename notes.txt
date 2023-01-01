@@ -1,0 +1,6 @@
+Run server - python manage.py startserver
+Run when adding new app - python manage.py makemigrations ; python manage.py migrate
+Create app - python manage.py startapp app
+Create admin user - python .\manage.py createsuperuser
+Django shell - python manage.py shell
+Get all objects in model - Model.objects.all()
